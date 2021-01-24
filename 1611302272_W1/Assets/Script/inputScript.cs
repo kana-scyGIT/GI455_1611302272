@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
-using System.Security.Cryptography.X509Certificates;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class searchScript : MonoBehaviour
+public class inputScript : MonoBehaviour
 {
+    // Start is called before the first frame update
     public InputField textField;
     public static string inputText;
 
@@ -20,6 +19,4 @@ public class searchScript : MonoBehaviour
     {
         inputText = textField.text;
     }
-    
-    
 }
