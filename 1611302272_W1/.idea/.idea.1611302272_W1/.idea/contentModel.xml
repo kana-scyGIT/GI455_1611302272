@@ -9,6 +9,7 @@
       <e p="Assets" t="Include">
         <e p="Script" t="Include">
           <e p="inputScript.cs" t="Include" />
+          <e p="ReadMe.cs" t="Include" />
           <e p="textUpdate.cs" t="Include" />
         </e>
       </e>

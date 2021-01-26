@@ -21,12 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="128d5c9d-eac1-419c-a586-f9d88aef3d92" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1611302272_W1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1611302272_W1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1611302272_W1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1611302272_W1/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1611302272_W1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1611302272_W1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Send Assignment Week1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Send Assignment Week1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Send Assignment Week1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Send Assignment Week1/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Send Assignment Week1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Send Assignment Week1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/1611302272_W1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1611302272_W1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Script/textUpdate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/textUpdate.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +39,7 @@
         <option value="$PROJECT_DIR$/Assets/findingScript.cs" />
         <option value="$PROJECT_DIR$/Assets/inputScript.cs" />
         <option value="$PROJECT_DIR$/Assets/textUpdate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ReadMe.cs" />
       </list>
     </option>
   </component>
@@ -87,6 +85,8 @@
       <updated>1611481219468</updated>
       <workItem from="1611481224314" duration="1162000" />
       <workItem from="1611653729785" duration="1028000" />
+      <workItem from="1611656073287" duration="39000" />
+      <workItem from="1611656147865" duration="5000" />
     </task>
     <servers />
   </component>
