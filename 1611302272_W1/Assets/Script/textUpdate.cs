@@ -39,8 +39,7 @@ public class textUpdate : MonoBehaviour
             case "Kan" :
                 TextFound();
                 break;
-            
-            
+
             case "1611302272" :                 
                 TextFound();
                 break;
@@ -56,8 +55,6 @@ public class textUpdate : MonoBehaviour
             case "EA" :
                 TextFound();
                 break;
-            
-            
             
             default:
                 TextnotFound();
